@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## HELLO My name is SIM Seokhyun
 <!--
 **seokhyun0809/seokhyun0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
